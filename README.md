@@ -48,7 +48,8 @@ The dataset contains passenger information used to predict survival on the Titan
   ![image](https://github.com/user-attachments/assets/1afae2d5-aedd-433a-9f7c-24e8841e428c)
 
 - Filled `Embarked` with **mode** (most common port).
-  ![image](https://github.com/user-attachments/assets/e056bb2e-56f5-4fc8-a50c-a770e3996ad4)
+  ![image](https://github.com/user-attachments/assets/d3cb448b-6044-479d-a11c-6d20ebc0f42f)
+
 
 
 ### 3. Feature Encoding
