@@ -35,7 +35,7 @@ The dataset contains passenger information used to predict survival on the Titan
 
   ![image](https://github.com/user-attachments/assets/4a0c4557-2c74-4f54-ae4c-de65243646a7)
   
-- Identified missing values in `Age` and `Embarked`.
+- Identified missing values in `Age` ,`Cabin`, `Embarked`.
 
   ![image](https://github.com/user-attachments/assets/cd090ce0-f333-421b-a3a9-e58c1b6ac5a9)
 
