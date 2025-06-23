@@ -31,9 +31,15 @@ The dataset contains passenger information used to predict survival on the Titan
 ## ✅ Steps Completed
 
 ### 1. Data Import & Exploration
-- Loaded the dataset and examined null values, data types, and distribution.
-- Identified missing values in `Age` and `Embarked`.
+- Loaded the dataset and examined null values, data types.
+
   ![image](https://github.com/user-attachments/assets/4a0c4557-2c74-4f54-ae4c-de65243646a7)
+  
+- Identified missing values in `Age` and `Embarked`.
+
+  ![image](https://github.com/user-attachments/assets/cd090ce0-f333-421b-a3a9-e58c1b6ac5a9)
+
+  
 
 
 ### 2. Handling Null/Missing Values
